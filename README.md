@@ -88,8 +88,6 @@ If using EC2 and getting the "You must be logged in to the server (Unauthorized)
 
 Clone the github repo
 
-git clone https://github.com/N4si/K8s-voting-app.git
-
 Create CloudChamp Namespace
 
 kubectl create ns cloudchamp
